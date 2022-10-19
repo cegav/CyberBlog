@@ -41,3 +41,14 @@ body {
     font-weight: normal;
 }
 
+#footer {
+    background-color: rgb(31, 31, 87);
+    text-align: center;
+    color: white;
+    width: 100%;
+    min-height: 2rem;
+}
+
+#footer > div{
+    padding: 1rem 0;
+}
