@@ -1,4 +1,4 @@
-# CyberBlog :tw-1f49a: :tw-1f44f:
+# CyberBlog 💚
 Un blog utlizando HTML y CSS para el curso de [Git y Github](https://platzi.com/cursos/git-github/ "Git y Github")  de [Platzi](https://platzi.com/ "Platzi"). 
 
 > El curso de Git y Github de platzi es un excelente curso que me permite conocer estás dos tecnologías a profundidad.
